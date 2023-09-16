@@ -1,16 +1,19 @@
 {
   "files": {
-    "main.css": "/economia/static/css/main.073c9b0a.css",
-    "main.js": "/economia/static/js/main.3c56b013.js",
+    "main.css": "/economia/static/css/main.ae80f914.css",
+    "main.js": "/economia/static/js/main.91fa802d.js",
     "static/js/787.9931b3a9.chunk.js": "/economia/static/js/787.9931b3a9.chunk.js",
-    "static/media/logo.svg": "/economia/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "static/media/bootstrap-icons.woff?": "/economia/static/media/bootstrap-icons.188c4daf771cf463a7f8.woff",
+    "static/media/bootstrap-icons.woff2?": "/economia/static/media/bootstrap-icons.20b477712d7957d9b029.woff2",
+    "static/media/escudo-chubut.png": "/economia/static/media/escudo-chubut.283427e6aff0c7937a64.png",
+    "static/media/logo-en-movimiento.svg": "/economia/static/media/logo-en-movimiento.c654e142bdda3e7dba8715637a7674d2.svg",
     "index.html": "/economia/index.html",
-    "main.073c9b0a.css.map": "/economia/static/css/main.073c9b0a.css.map",
-    "main.3c56b013.js.map": "/economia/static/js/main.3c56b013.js.map",
+    "main.ae80f914.css.map": "/economia/static/css/main.ae80f914.css.map",
+    "main.91fa802d.js.map": "/economia/static/js/main.91fa802d.js.map",
     "787.9931b3a9.chunk.js.map": "/economia/static/js/787.9931b3a9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.3c56b013.js"
+    "static/css/main.ae80f914.css",
+    "static/js/main.91fa802d.js"
   ]
 }
